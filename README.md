@@ -2,6 +2,8 @@
 [![npm version][npm-version-image]][npm-version-url]
 [![npm downloads][npm-downloads-image]][npm-downloads-url]
 [![Build Status][travis-image]][travis-url]
+[![dependency Status][david-dep-image]][david-dep-url]
+[![devDependency Status][david-devdep-image]][david-devdep-url]
 [![License][license-image]][license-url]
 
 ***
@@ -31,8 +33,13 @@
 [npm-downloads-image]: https://img.shields.io/npm/dm/tox-susy-kss-playground.svg?style=flat-square
 [npm-downloads-url]: https://www.npmjs.com/package/tox-susy-kss-playground
 
-[license-image]: https://img.shields.io/github/license/dasrick/tox-susy-kss-playground.svg?style=flat-square
-[license-url]: https://github.com/dasrick/tox-susy-kss-playground/blob/master/LICENSE
+[david-dep-image]: https://david-dm.org/dasrick/tox-chat-ui/status.svg
+[david-dep-url]: https://david-dm.org/dasrick/tox-chat-ui#info=dependencies
+[david-devdep-image]: https://david-dm.org/dasrick/tox-chat-ui/dev-status.svg
+[david-devdep-url]: https://david-dm.org/dasrick/tox-chat-ui#info=devDependencies
 
 [travis-image]: https://travis-ci.org/dasrick/tox-susy-kss-playground.svg?branch=master
 [travis-url]: https://travis-ci.org/dasrick/tox-susy-kss-playground
+
+[license-image]: https://img.shields.io/github/license/dasrick/tox-susy-kss-playground.svg?style=flat-square
+[license-url]: https://github.com/dasrick/tox-susy-kss-playground/blob/master/LICENSE
