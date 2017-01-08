@@ -21,6 +21,9 @@
     "css",
     "kss"
   ],
+  "engines": {
+    "node": ">=4"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
