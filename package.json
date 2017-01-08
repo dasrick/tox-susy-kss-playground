@@ -35,7 +35,6 @@
     "susy": "^2.2.12"
   },
   "scripts": {
-    "postinstall": "gulp",
     "test": "gulp sass-lint"
   }
 }
