@@ -1,6 +1,7 @@
 [![github tag][github-tag-image]][github-tag-url]
 [![npm version][npm-version-image]][npm-version-url]
 [![npm downloads][npm-downloads-image]][npm-downloads-url]
+[![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
 
 ***
@@ -32,3 +33,6 @@
 
 [license-image]: https://img.shields.io/github/license/dasrick/tox-susy-kss-playground.svg?style=flat-square
 [license-url]: https://github.com/dasrick/tox-susy-kss-playground/blob/master/LICENSE
+
+[travis-image]: https://travis-ci.org/dasrick/tox-susy-kss-playground.svg?branch=master
+[travis-url]: https://travis-ci.org/dasrick/tox-susy-kss-playground
