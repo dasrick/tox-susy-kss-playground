@@ -33,10 +33,10 @@
 [npm-downloads-image]: https://img.shields.io/npm/dm/tox-susy-kss-playground.svg?style=flat-square
 [npm-downloads-url]: https://www.npmjs.com/package/tox-susy-kss-playground
 
-[david-dep-image]: https://david-dm.org/dasrick/tox-chat-ui/status.svg
-[david-dep-url]: https://david-dm.org/dasrick/tox-chat-ui#info=dependencies
-[david-devdep-image]: https://david-dm.org/dasrick/tox-chat-ui/dev-status.svg
-[david-devdep-url]: https://david-dm.org/dasrick/tox-chat-ui#info=devDependencies
+[david-dep-image]: https://david-dm.org/dasrick/tox-susy-kss-playground/status.svg
+[david-dep-url]: https://david-dm.org/dasrick/tox-susy-kss-playground#info=dependencies
+[david-devdep-image]: https://david-dm.org/dasrick/tox-susy-kss-playground/dev-status.svg
+[david-devdep-url]: https://david-dm.org/dasrick/tox-susy-kss-playground#info=devDependencies
 
 [travis-image]: https://travis-ci.org/dasrick/tox-susy-kss-playground.svg?branch=master
 [travis-url]: https://travis-ci.org/dasrick/tox-susy-kss-playground
