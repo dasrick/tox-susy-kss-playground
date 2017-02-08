@@ -5,17 +5,12 @@ var autoprefixer = require('gulp-autoprefixer');
 var sassLint = require('gulp-sass-lint');
 
 // Gulp Sass Task
-gulp.task('sass', function() {
+gulp.task('sass', function () {
     gulp.src('./src/{,*/}*.{scss,sass}')
         .pipe(sourcemaps.init())
-        .pipe(sass({
-            errLogToConsole: true
-        }))
+        .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
         .pipe(sourcemaps.write())
-        .pipe(autoprefixer({
-            browsers: ['last 2 versions'],
-            cascade: false
-        }))
+        .pipe(autoprefixer({browsers: ['last 2 versions'], cascade: false}))
         .pipe(gulp.dest('./dist'));
 });
 
