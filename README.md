@@ -10,7 +10,7 @@
 
 # tox-susy-kss-playground
 
-... the name is program ...
+... currently there is only a gulp based build pipeline ...
 
 
 ## Installation
@@ -22,6 +22,16 @@
 
 ... comming soon ...
 
+
+## Misc
+
+A good [article](https://sass-guidelin.es/#architecture) about architecture of SASS/SCSS/CSS ... 
+
+
+## ToDo
+
+* add sample SCSS (structured, BEMed etc.)
+* rename/append titles of gulp tasks (i like build and test)
 
 ***
 
